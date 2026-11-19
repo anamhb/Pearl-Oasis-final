@@ -1,0 +1,6 @@
+{
+  "name": "Pearl Oasis",
+  "description": "Contemporary Food Experience in Kohat, Pakistan. Distinctive dining uniting Pakistani specialties, vibrant Chinese woks, and gourmet fast food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

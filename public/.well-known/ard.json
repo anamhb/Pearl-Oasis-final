@@ -1,0 +1,66 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Pearl Oasis Restaurant",
+    "identifier": "did:web:pearl-oasis.ai.studio",
+    "documentationUrl": "https://pearl-oasis.ai.studio/llms.txt",
+    "logoUrl": "https://pearl-oasis.ai.studio/og-pearl-oasis.jpg"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:pearl-oasis.ai.studio:restaurant:dining-guide",
+      "displayName": "Pearl Oasis Dining & Menu Guide",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://pearl-oasis.ai.studio/skills/pearl-oasis-dining.md",
+      "description": "Structured dining guide for Pearl Oasis Restaurant in Kohat covering menu categories, signature dishes, both branches, daily service hours, and reservation workflows.",
+      "tags": [
+        "restaurant",
+        "pakistani-cuisine",
+        "chinese-cuisine",
+        "kohat",
+        "menu",
+        "dining"
+      ],
+      "capabilities": [
+        "MenuOverview",
+        "BranchLocations",
+        "OperatingHours",
+        "ReservationGuidance"
+      ],
+      "representativeQueries": [
+        "What are Pearl Oasis Restaurant opening hours and branch addresses in Kohat?",
+        "What Pakistani karahi, BBQ, and Chinese dishes are on the Pearl Oasis menu?",
+        "How do I book a table or order food online at Pearl Oasis Kohat?"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-18T12:00:00Z"
+    },
+    {
+      "identifier": "urn:air:pearl-oasis.ai.studio:api:orders-and-bookings",
+      "displayName": "Pearl Oasis Orders & Table Bookings API Guide",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://pearl-oasis.ai.studio/skills/pearl-oasis-orders-api.md",
+      "description": "Agent skill guide documenting the live Pearl Oasis Restaurant HTTP API and OpenAPI 3.1 schema for creating and managing food orders and table reservations.",
+      "tags": [
+        "openapi",
+        "orders",
+        "bookings",
+        "reservations",
+        "restaurant-api"
+      ],
+      "capabilities": [
+        "CreateFoodOrder",
+        "LookupOrder",
+        "CreateTableReservation",
+        "LookupReservation"
+      ],
+      "representativeQueries": [
+        "Create a pickup or delivery food order at Pearl Oasis Restaurant",
+        "Reserve a dining table for a family dinner at Pearl Oasis in Kohat",
+        "Check status of an existing Pearl Oasis booking or order reference"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-18T12:00:00Z"
+    }
+  ]
+}

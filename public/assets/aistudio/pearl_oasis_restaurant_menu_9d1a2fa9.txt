@@ -1,0 +1,99 @@
+==================================================
+              PEARL OASIS RESTAURANT
+             Complete Food & Beverage Menu
+==================================================
+
+[SOUPS - SERVES 2 PERSONS]
+- Oasis Special Soup               Rs. 950
+- Hot & Sour Soup                  Rs. 850
+- Chicken Corn Soup                Rs. 850
+- Vegetable Soup                   Rs. 850
+
+[CHINESE CUISINE]
+- Chicken Manchurian with Rice (Single) Rs. 1,250
+- Chicken Chili Dry with Rice (Single)  Rs. 1,250
+- Chicken Shashlik with Rice (Single)   Rs. 1,250
+- Chicken Chow Mein                Rs. 990
+
+[OASIS RICE]
+- Chicken Fried Rice               Rs. 990
+- Vegetable Fried Rice             Rs. 990
+- Oasis Kabuli Pulao               Rs. 1,350
+- Sada Pulao                       Rs. 750
+
+[PAKISTANI KARAHI]
+- Chicken Karahi                   Half: Rs. 1,190 | Full: Rs. 2,090
+- Chicken Black Pepper Karahi      Half: Rs. 1,290 | Full: Rs. 2,390
+- Chicken White Karahi             Half: Rs. 1,290 | Full: Rs. 2,390
+- Chicken Achari Karahi            Half: Rs. 1,290 | Full: Rs. 2,390
+- Mutton Karahi                    Half: Rs. 1,890 | Full: Rs. 3,790
+- Mutton White Karahi              Half: Rs. 1,990 | Full: Rs. 3,990
+- Mutton Black Pepper Karahi       Half: Rs. 1,990 | Full: Rs. 3,990
+
+[TRADITIONAL HANDI]
+- Chicken Handi                    Half: Rs. 1,450 | Full: Rs. 2,550
+- Chicken Black Pepper Handi       Half: Rs. 1,450 | Full: Rs. 2,550
+- Chicken White Handi              Half: Rs. 1,450 | Full: Rs. 2,550
+- Chicken Mughlai Handi            Half: Rs. 1,450 | Full: Rs. 2,550
+- Chicken Achari Handi             Half: Rs. 1,450 | Full: Rs. 2,550
+
+[TRADITIONAL BBQ]
+- Chicken Boti (10 pcs)            Rs. 1,050
+- Chicken Malai Boti (10 pcs)      Rs. 1,450
+- Chicken Tikka Leg                Rs. 350
+- Chicken Tikka Chest              Rs. 390
+- Mutton Tikka Boti (1 kg)         Rs. 3,800
+- Chicken Reshmi Kabab (4 pcs)     Rs. 1,190
+- Batair (6 pcs)                   Rs. 990
+- Boneless Fish (Half kg)          Rs. 1,800
+- Boneless Fish (1 kg)             Rs. 3,200
+
+[BBQ PLATTERS]
+- Oasis BBQ Platter (2 Persons)    Rs. 2,400
+  Includes: 4 Chicken Boti, 4 Chicken Malai Boti, 2 Chicken Reshmi Kabab, 1 Chicken Tikka Piece, Special Pulao & 1 Ltr Drink
+
+- Shahi Platter (3 to 4 Persons)   Rs. 5,200
+  Includes: 6 Chicken Boti, 6 Chicken Malai Boti, 2 Pcs Chicken Tikka, 4 Chicken Reshmi Kabab, 6 Batair, Special Pulao & 1.5 Ltr Drink
+
+- Shah Jahan Platter (5 to 6 Persons) Rs. 7,200
+  Includes: 8 Chicken Boti, 8 Chicken Malai Boti, 3 Pcs Chicken Tikka, 6 Chicken Kabab, 8 Batair, Special Pulao & 1.5 Ltr Drink
+
+[TRADITIONAL TANDOOR]
+- Plain Naan                       Rs. 50
+- Roghni Naan                      Rs. 150
+- Garlic Naan                      Rs. 150
+- Kalwanji Naan                    Rs. 150
+- Cheese Naan                      Rs. 650
+
+[FAST FOOD - APPETIZERS]
+- Fish and Chips (4 Pcs)           Rs. 1,250
+- Crispy Finger Fish (6 Pcs)       Rs. 1,650
+- Plain Fries                      Rs. 290
+- Supreme Loaded Fries             Rs. 800
+- Hot Wings (6 pcs)                Rs. 800
+- Nuggets (6 pcs)                  Rs. 700
+
+[BURGERS]
+- Classic Chicken Burger           Rs. 600
+- Classic Beef Burger              Rs. 800
+- Crunchy Zinger Burger            Rs. 550
+- American Smash Beef Burger       Rs. 850
+- Jalapeno Grilled Chicken Burger  Rs. 700
+
+[STEAKS]
+- Mexican Steak                    Chicken: Rs. 1,850 | Beef: Rs. 2,550
+- Mushroom Steak                   Chicken: Rs. 1,850 | Beef: Rs. 2,550
+
+[PASTA & WRAPS]
+- Alfredo Pasta                    Rs. 1,250
+- Lasagna Pasta                    Rs. 1,250
+- Mexican Wrap                     Rs. 650
+- Lebanese Wrap                    Rs. 650
+
+[CHEF SPECIAL PIZZA SECTION]
+- Fajita           Small: Rs. 790  | Med: Rs. 1,390 | Large: Rs. 2,090 | Family: Rs. 2,790
+- BBQ              Small: Rs. 790  | Med: Rs. 1,390 | Large: Rs. 2,090 | Family: Rs. 2,790
+- Tikka            Small: Rs. 790  | Med: Rs. 1,390 | Large: Rs. 2,090 | Family: Rs. 2,790
+- Chicken Supreme  Small: Rs. 890  | Med: Rs. 1,450 | Large: Rs. 2,350 | Family: Rs. 2,950
+- Crown Crust      Large: Rs. 2,290 | Family: Rs. 2,950
+- Oasis Star Pizza Large: Rs. 2,250 | Family: Rs. 2,950

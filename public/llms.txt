@@ -1,0 +1,26 @@
+# Pearl Oasis Restaurant
+
+> Pearl Oasis is a fine-dining restaurant in Kohat, Khyber Pakhtunkhwa, Pakistan, serving traditional Pakistani karahis, live charcoal BBQ, Chinese wok dishes, tandoor breads, artisan fast food, beverages, salads, and desserts daily from 11:00 AM to 11:00 PM.
+
+Pearl Oasis operates two branches in Kohat:
+- Branch 1 (KDA Branch): Kohat City Centre, near KDA Gate No. 1, Kohat, Pakistan · Phone: +92 332 7515538
+- Branch 2 (Al-Falah Plaza): Al-Falah Plaza Extension (near Broadway Bakery / CSD), Kohat, Pakistan · Phone: +92 332 5230006
+- Operating Hours: Open daily 11:00 AM – 11:00 PM (Friday prayer break: 1:00 PM – 2:30 PM)
+
+## Core Pages
+
+- [Home](https://pearl-oasis.ai.studio/): Restaurant overview, story, signature dishes, guest testimonials, CEO vision, and Kohat location details.
+- [Full Menu & Online Ordering](https://pearl-oasis.ai.studio/order-menu): Complete categorized menu with live PKR pricing, portion variations, and pickup or delivery ordering.
+- [Book a Table](https://pearl-oasis.ai.studio/book-a-table): Interactive table reservation flow supporting party composition, dining hall selection, date, and time slots.
+
+## Agent Resources & APIs
+
+- [Dining & Menu Agent Guide](https://pearl-oasis.ai.studio/skills/pearl-oasis-dining.md): Structured reference covering cuisines, signature dishes, branches, service hours, and ordering/booking procedures.
+- [Orders & Table Bookings API Guide](https://pearl-oasis.ai.studio/skills/pearl-oasis-orders-api.md): Agent skill guide for food ordering and table reservation HTTP endpoints.
+- [Orders & Reservations OpenAPI Spec](https://pearl-oasis.ai.studio/openapi.json): Machine-readable OpenAPI 3.1 specification for the live Pearl Oasis orders and table bookings API endpoints.
+- [Agentic Resource Discovery Manifest](https://pearl-oasis.ai.studio/.well-known/ard.json): ARD capability catalog for autonomous discovery.
+
+## Optional
+
+- [Sitemap](https://pearl-oasis.ai.studio/sitemap.xml): XML index of public restaurant pages.
+- [Google Maps Directions](https://maps.app.goo.gl/LeJogix9azNPMHiq7): Direct navigation pin for Pearl Oasis KDA Branch in Kohat.
